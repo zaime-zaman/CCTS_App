@@ -1,0 +1,80 @@
+# =============================
+# Python Virtual Environment
+# =============================
+.venv/
+venv/
+ENV/
+env/
+
+# =============================
+# Python Cache / Compiled Files
+# =============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# =============================
+# Build / Distribution
+# =============================
+build/
+dist/
+*.egg-info/
+*.spec
+
+# =============================
+# Logs / Databases
+# =============================
+*.log
+*.sqlite3
+*.db
+
+# =============================
+# IDE / OS Files
+# =============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =============================
+# Temporary or Backup Files
+# =============================
+*.bak
+*.tmp
+*.swp
+
+# =============================
+# Large Assets / Binaries
+# =============================
+assets/*.gif
+assets/*.mp4
+assets/*.avi
+assets/*.zip
+assets/*.exe
+assets/*.dll
+assets/*.pak
+
+# =============================
+# Qt / OpenCV Specific
+# =============================
+*.qrc
+*.ui~
+*.obj
+*.lib
+*.exp
+
+# =============================
+# Environment / Config Files
+# =============================
+config.ini
+.env
+
+# =============================
+# Machine Learning / Models
+# =============================
+*.h5
+*.pkl
+*.pt
+*.onnx

@@ -1,0 +1,3 @@
+PyQt5>=5.15.4
+qdarkstyle>=3.0.0        # optional nicer dark theme
+pyinstaller>=5.7         # optional: build a single exe later
