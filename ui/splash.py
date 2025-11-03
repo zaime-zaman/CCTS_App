@@ -27,7 +27,7 @@ class SplashScreen(QWidget):
         layout.addWidget(self.label)
 
         # resize the gif to fit the screen
-        self.label.setFixedSize(1620, 880)  # Adjust size as needed
+        self.label.setFixedSize(1920, 1080)  # Adjust size as needed
         self.label.setScaledContents(True)
 
 

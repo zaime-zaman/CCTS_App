@@ -1,0 +1,10 @@
+time,x,y,result,body_part,damage_type,person
+1.6232264041900635,939,283,instant_kill,head,instant_kill,1
+2.0612776279449463,956,336,instant_kill,head,instant_kill,1
+2.6437010765075684,923,347,instant_kill,head,instant_kill,1
+3.0620312690734863,911,399,instant_kill,neck,instant_kill,1
+3.7905561923980713,964,362,instant_kill,head,instant_kill,1
+4.166777849197388,944,466,critical_hit,chest,critical,1
+4.820403814315796,971,355,instant_kill,head,instant_kill,1
+5.228598356246948,863,384,heavy_damage,torso,heavy,1
+5.63338303565979,853,500,critical_hit,chest,critical,1
